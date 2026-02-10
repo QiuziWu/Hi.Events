@@ -1,3 +1,18 @@
+## Contribution
+
+This repository represents my backend contribution to a team project based on Hi.Events.
+
+I was responsible for:
+- Designing and implementing RESTful APIs using Node.js
+- Backend business logic for event and user management
+- Cloud deployment on AWS EC2
+- Configuring Nginx as a reverse proxy with HTTPS
+- Monitoring and logging with AWS CloudWatch
+
+The backend implementation is primarily located in the `backend/` directory.
+The frontend was developed by a teammate, and we collaborated through clearly defined API contracts.
+
+---
 <div align="center">
 <div align="center">
 
